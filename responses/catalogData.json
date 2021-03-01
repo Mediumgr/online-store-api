@@ -1,12 +1,22 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "title": "Asus",
+    "price": 15000,
+    "image": "photo/asus.jpg"
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
-  }
+    "title": "Acer",
+    "price": 20500,
+    "image": "photo/asus.jpg"
+  },
+    {
+    "title": "HP",
+    "price": 18000,
+    "image": "photo/asus.jpg"
+  },
+    {
+    "title": "Dell",
+    "price": 20000,
+    "image": "photo/asus.jpg"
+  },
 ]
