@@ -7,16 +7,16 @@
   {
     "title": "Acer",
     "price": 20500,
-    "image": "photo/asus.jpg"
+    "image": "photo/acer.jpg"
   },
     {
     "title": "HP",
     "price": 18000,
-    "image": "photo/asus.jpg"
+    "image": "photo/hp.jpg"
   },
     {
     "title": "Dell",
     "price": 20000,
-    "image": "photo/asus.jpg"
+    "image": "photo/dell.jpg"
   }
 ]
