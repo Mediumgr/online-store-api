@@ -1,21 +1,25 @@
 [
   {
-    "title": "Asus",
+    "id_product": 1,
+    "product_name": "Asus",
     "price": 15000,
     "image": "photo/asus.jpg"
   },
   {
-    "title": "Acer",
+    "id_product": 2,
+    "product_name": "Acer",
     "price": 20500,
     "image": "photo/acer.jpg"
   },
     {
-    "title": "HP",
+    "id_product": 3,
+    "product_name": "HP",
     "price": 18000,
     "image": "photo/hp.jpg"
   },
     {
-    "title": "Dell",
+    "id_product": 4,  
+    "product_name": "Dell",
     "price": 20000,
     "image": "photo/dell.jpg"
   }
