@@ -6,14 +6,14 @@
       "id_product": 1,
       "product_name": "Asus",
       "price": 15000,
-      "img": "photo/asus.jpg"
+      "img": "photo/asus.jpg",
       "quantity": 1
     },
     {
       "id_product": 2,
       "product_name": "Acer",
       "price": 20500,
-      "img": "photo/acer.jpg"
+      "img": "photo/acer.jpg",
       "quantity": 1
     }
   ]
