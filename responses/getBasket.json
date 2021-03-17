@@ -15,6 +15,18 @@
       "price": 20500,
       "img": "photo/acer.jpg",
       "quantity": 1
-    }
+    },
+    {
+    "id_product": 3,
+    "product_name": "HP",
+    "price": 18000,
+    "img": "photo/hp.jpg"
+  },
+  {
+    "id_product": 4,  
+    "product_name": "Dell",
+    "price": 20000,
+    "img": "photo/dell.jpg"
+  }
   ]
 }
